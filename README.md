@@ -1,6 +1,10 @@
 # Files_Bulk_Downloader
 Downloads entire file types from the internet. 
 
+Dependencies
+1) Selenium
+2) Chromedriver
+
 
 Eg: You want to download all lecture powerpoint all at once.
 
@@ -10,3 +14,4 @@ Paste the location where to download files
 If the original link has sublinks (subfolders) where there are additional files, press "y" else "n".
 
 That's all. You should be able to see all the file downloaded in your directory.
+
